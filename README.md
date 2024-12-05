@@ -40,6 +40,5 @@ The architecture integrates StreamLit, LangChain, and OpenAI GPT models to deliv
 
 Clone the repository:
    ```bash
-   git clone https://github.com/Airline_Experience/airline-feedback-app.git
-   cd airline-feedback-app
+      https://github.com/Gowtham150996/Airline_Experience.git
 
