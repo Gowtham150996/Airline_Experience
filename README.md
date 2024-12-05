@@ -34,7 +34,6 @@ The architecture integrates StreamLit, LangChain, and OpenAI GPT models to deliv
 ## Prerequisites
 
 - Python 3.8 or later
-- OpenAI API Key
 - StreamLit
 
 ## Installation
